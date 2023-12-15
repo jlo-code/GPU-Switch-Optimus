@@ -7,3 +7,6 @@ With Debian Linux OS, the seamless switching between integrated and dedicated gr
 The following is a hardware configuration script: specifically written to simplify alternating between graphic processors.
 
 Requires Debian Linux OS & Nvidia Optimus technology.
+
+Dependencies include:
+os, sys
